@@ -1,0 +1,8 @@
+How to use skibidi file sorter in your own laptop/pc/device.
+
+Step 1. Make sure you have devc++ / bloodshed installed in your device, if not here is the link, open in your browser.. https://www.bloodshed.net/
+Step 2. Download my repository and make sure all of the files are in one folder, especially the music file.
+Step 3. Make sure your downloads folder do not have any folders within it. Because it might rearrange the existing folder and its contents, so move them elsewhere.
+Step 4. Go to finalsmusic.exe and click it and run the program.
+Step 5. Find your Downloads folder location/path and paste or put it in the "Enter Path" menu.
+Step 6. You are all done Enjoy the music!, you can arrange your downloads folder accordingly,pdf files, docx, excel,applications,png,jpg, etc... will be automatically separated in each repective folders.
